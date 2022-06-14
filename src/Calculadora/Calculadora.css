@@ -1,0 +1,9 @@
+.Calculadora {
+    width: 300px;
+    min-height: 50px;
+    background-color: rgb(177, 173, 173);
+    display: flex;
+    padding: 2px;
+    border-radius: 5px;
+    flex-direction: column;
+}

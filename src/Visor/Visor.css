@@ -1,0 +1,11 @@
+.Visor{
+    display: flex;
+    width: 100%;
+    background-color: snow;
+    justify-content: flex-end;
+    padding: 15px 0;
+    font-size: 2em;
+    border-radius: 2px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
